@@ -1,0 +1,13 @@
+{
+  "format": 1,
+  "payload": {
+    "expires_at": 1798502400,
+    "license_id": "consigap-20261029-2m",
+    "product_id": "OS.Reports",
+    "serial": "OGRX-00BR-00CG-2026-1000-9200",
+    "title": "Consigap - 2 meses",
+    "valid_from": 1793232000
+  },
+  "signature": "6nr88s7tb+ijssOb2x5U7KG9unvv+1e3pRtqqcOzUgH2duwHi3IWnrEMH5IKvMY74aQ0LLwIyxYmGeHCva/iCA==",
+  "signing_key_id": "issuer-1"
+}
